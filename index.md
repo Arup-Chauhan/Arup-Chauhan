@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Arup, welcome to my Digital Domain
+# Hi, I'm Arup, welcome to my Digital Domain!
 
 Currently pursuing my Master's in Computer Science at Illinois Tech, I'm passionate about software engineering, open-source contributions, and making databases optimized.
 
