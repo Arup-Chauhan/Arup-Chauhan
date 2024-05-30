@@ -1,5 +1,5 @@
 title: Arup Chauhan's Portfolio
 description: Portfolio of Arup Chauhan
-theme: minima
-baseurl: ""
-url: "https://Arup-Chauhan.github.io"
+theme: jekyll-theme-cayman
+baseurl: "/Arup-Chauhan"
+url: "https://arup-chauhan.github.io"
