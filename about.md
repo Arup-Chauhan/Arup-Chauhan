@@ -18,6 +18,9 @@ permalink: /about/
 
   May 2024 - Present  
 
+  Working under Prof. Gerald Balekaki.
+  
+
   Optimizing SQL query execution plans with machine learning models. Making databases faster, one query at a time.
 
 - **Application Engineer (Content Systems Development)** <i class="fas fa-code"></i>  
