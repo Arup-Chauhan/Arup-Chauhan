@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 title: Projects
 permalink: /projects/
+author_profile: true
 ---
 
 > "The best way to predict the future is to invent it." – Alan Kay

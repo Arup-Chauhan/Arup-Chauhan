@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: Home
+author_profile: true
 ---
 
 # Hi, I'm Arup, welcome to my Digital Domain!
