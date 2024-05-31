@@ -9,7 +9,7 @@ Currently pursuing my Master's in Computer Science at Illinois Institute of Tech
 I'm passionate about software engineering, open-source contributions, and making databases optimized.
 
 
-When I'm not coding, I'm diving into sneaker culture or whipping up culinary masterpieces while I play great music. My passion for tech is only rivaled by my love for great food and stylish footwear.
+When I'm not coding, I'm diving into sneaker culture or whipping up culinary masterpieces while I play great music. My passion for tech is only rivaled by my love for great food and rich sneaker culture.
 
 ## Quick Links <i class="fas fa-link"></i>
 - [About Me](/about/) <i class="fas fa-user"></i>
