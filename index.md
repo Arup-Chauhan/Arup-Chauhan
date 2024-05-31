@@ -5,7 +5,7 @@ title: Hey, I am Arup!
 
 # Welcome to my Digital Domain! <i class="fas fa-laptop-code"></i>
 
-Currently pursuing my Master's in Computer Science at Illinois Institute of Technology, Chicago.
+Currently pursuing my Master of Science in Computer Science at Illinois Institute of Technology, Chicago.
 I'm passionate about software engineering, open-source contributions, and making databases optimized.
 
 
