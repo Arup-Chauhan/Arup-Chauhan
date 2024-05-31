@@ -30,7 +30,7 @@ Finding optimal routes with Python and PostgreSQL.
 ### My tenure in Hindustan Times (side quests)
 
 #### Tool Implementations <i class="fas fa-tools"></i>
-Implemented and optimized workflows for ManageEngine, Freshservice, Zendesk, and JIRA.
+Implemented and optimized workflows for JIRA ManageEngine, Freshservice, and Zendesk.
 
 #### User Acceptance Testing Projects <i class="fas fa-vials"></i>
 - EidosMedia Methode Prime CMS upgrade.
