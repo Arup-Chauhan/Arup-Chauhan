@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: Hey! I am Arup
 ---
 
-# Hi, I'm Arup and welcome to my Digital Domain! <i class="fas fa-laptop-code"></i>
+# Welcome to my Digital Domain! <i class="fas fa-laptop-code"></i>
 
 Currently pursuing my Master's in Computer Science at Illinois Institute of Technology, Chicago.
 I'm passionate about software engineering, open-source contributions, and making databases optimized.
