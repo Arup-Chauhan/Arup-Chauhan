@@ -1,38 +1,21 @@
 title: Arup Chauhan's Digital Domain
 description: Bringing passions with technology
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: lenpaul/millennial
 baseurl: "/"
 url: "https://arup-chauhan.github.io"
 
-# Minimal Mistakes specific settings
+# Optional configurations for the theme
 plugins:
-  - jekyll-include-cache
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-archives
   - jekyll-paginate
-  - jekyll-optional-front-matter
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# Default author settings
-author:
-  name: "Arup Chauhan"
-  avatar: "/assets/images/avatar.png" # You can customize this with your own avatar image
-  bio: "Software Engineer passionate about coding, sneakers, culinary arts, and music."
-  location: "Chicago, IL"
-  email: "achauhan4@hawk.iit.edu"
-  links:
-    - label: "GitHub"
-      url: "https://github.com/Arup-Chauhan"
-    - label: "LinkedIn"
-      url: "https://linkedin.com/in/arupchauhan"
-
-# Pagination
 paginate: 5
 paginate_path: "/page:num/"
 
-# Additional configurations for the theme
-theme_config:
-  search_enabled: true
-  header:
-    image: "/assets/images/header.jpg" # You can customize this with your own header image
+author:
+  name: "Arup Chauhan"
+  email: "achauhan4@hawk.iit.edu"
+  social:
+    github: "https://github.com/Arup-Chauhan"
+    linkedin: "https://linkedin.com/in/arupchauhan"

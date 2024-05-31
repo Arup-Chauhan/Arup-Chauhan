@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: page
 title: About
 permalink: /about/
-author_profile: true
 ---
 
 > "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
