@@ -32,6 +32,6 @@ Finding optimal routes with Python and PostgreSQL.
 #### Tool Implementations <i class="fas fa-tools"></i>
 Implemented and optimized workflows for ManageEngine, Freshservice, Zendesk, and JIRA.
 
-#### User Acceptance Testing <i class="fas fa-vials"></i>
-- Conducted UAT for EidosMedia Methode Prime CMS upgrade.
+#### User Acceptance Testing Projects <i class="fas fa-vials"></i>
+- EidosMedia Methode Prime CMS upgrade.
 - HT ePaper, and LiveMint iOS app (Text-to-speech feature).
