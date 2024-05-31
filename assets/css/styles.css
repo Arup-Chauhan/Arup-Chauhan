@@ -1,11 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #1a1a1a;
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Black background */
     color: #f4f4f4;
 }
 
 header, footer {
-    background-color: #000;
+    background-color: #111; /* Slightly lighter black for header and footer */
     color: #fff;
     padding: 1em 0;
     text-align: center;
@@ -37,7 +39,7 @@ ul {
 }
 
 li {
-    background-color: #333;
+    background-color: #333; /* Dark grey for list items */
     margin: 1em 0;
     padding: 1em;
     border-radius: 5px;

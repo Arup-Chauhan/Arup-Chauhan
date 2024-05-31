@@ -1,21 +1,5 @@
 title: Arup Chauhan's Digital Domain
 description: Bringing passions with technology
-remote_theme: lenpaul/millennial
+theme: jekyll-theme-cayman
 baseurl: "/"
 url: "https://arup-chauhan.github.io"
-
-# Optional configurations for the theme
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-paginate: 5
-paginate_path: "/page:num/"
-
-author:
-  name: "Arup Chauhan"
-  email: "achauhan4@hawk.iit.edu"
-  social:
-    github: "https://github.com/Arup-Chauhan"
-    linkedin: "https://linkedin.com/in/arupchauhan"
