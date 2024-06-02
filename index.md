@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hey, I am Arup!
+title: Arup Chauhan
 ---
 
 # Welcome to my Digital Domain! <i class="fas fa-laptop-code"></i>
