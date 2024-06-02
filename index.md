@@ -17,5 +17,5 @@ My passion for tech is only rivaled by my love for great food and rich sneaker c
 
 ## Quick Navigation <i class="fas fa-link"></i>
 - [About Me](/about/) <i class="fas fa-user"></i>
-- [Projects](/projects/) <i class="fas fa-project-diagram"></i>
+- [Projects](/projects/) <i class="fas fa-cogs"></i>
 - [Contact](/contact/) <i class="fas fa-envelope"></i>

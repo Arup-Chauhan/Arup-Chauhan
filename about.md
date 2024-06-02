@@ -6,11 +6,11 @@ permalink: /about/
 
 > "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
 
-## Skills <i class="fas fa-tools"></i>
-- **Technologies**: <i class="fas fa-code"></i> Java, Python, C/C++, TypeScript, JavaScript, HTML, CSS, YAML, JSON, Spring Boot, Flask, Node.js, Next.js, React, TensorFlow
-- **Databases**: <i class="fas fa-database"></i> PostgreSQL, MySQL, MongoDB, Firebase, Elasticsearch, Versant Object Database
-- **Tools**: <i class="fas fa-tools"></i> Git, GitHub, GitHub Actions, Docker, GCP, Postman, JIRA, Hibernate
-- **Practices**: <i class="fas fa-cogs"></i> RESTful APIs, Microservices, Agile, SDLC, Test-Driven Development, CI/CD, Containerization
+## Skills <i class="fas fa-code"></i>
+- **Technologies**: Java, Python, C/C++, TypeScript, JavaScript, HTML, CSS, YAML, JSON, Spring Boot, Flask, Node.js, Next.js, React, TensorFlow
+- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase, Elasticsearch, Versant Object Database
+- **Tools**: Git, GitHub, GitHub Actions, Docker, GCP, Postman, JIRA, Hibernate
+- **Practices**: RESTful APIs, Microservices, Agile, SDLC, Test-Driven Development, CI/CD, Containerization
 
 ## Experience <i class="fas fa-briefcase"></i>
 - **Software Engineer** <i class="fas fa-laptop-code"></i>  
@@ -23,7 +23,7 @@ permalink: /about/
 
   Optimizing SQL query execution plans with machine learning models. Making databases faster, one query at a time.
 
-- **Application Engineer (Content Systems Development)** <i class="fas fa-code"></i>  
+- **Application Engineer (Content Systems Development)**
   Hindustan Times through Four C Plus (Internet) Co. Ltd. - New Delhi, India  
 
   Oct 2019 - Apr 2022

@@ -8,30 +8,30 @@ permalink: /projects/
 
 ## Open Source Contributions <i class="fas fa-code-branch"></i>
 
-### Knowledge Sharing Platform (FOSS Overflow 2024) @ Indian Institute of Technology, Bhilai <i class="fas fa-comments"></i>
+### Knowledge Sharing Platform (FOSS Overflow 2024) @ Indian Institute of Technology, Bhilai 
 Developed a content moderation system with Next.js and Firebase, achieving a 95% request success rate.
 
 [FOSS Overflow Program](https://fossoverflow.dev/)
 
 
-## Projects <i class="fas fa-project-diagram"></i>
+## Projects <i class="fas fa-cogs"></i>
 
-### Sneaker Space <i class="fas fa-shoe-prints"></i>
+### Sneaker Space 
 [GitHub Repository](https://github.com/Arup-Chauhan/Sneaker-Space)
 
 A focussed search engine for sneaker enthusiasts built with React and MongoDB.
 
-### Algorithmic Route Finder <i class="fas fa-route"></i>
+### Algorithmic Route Finder 
 [GitHub Repository](https://github.com/Arup-Chauhan/Algorithmic-Route-Finder)
 
 Finding optimal routes with Python and PostgreSQL.
 
 
-### My tenure in Hindustan Times, New Delhi (side quests)
+## My tenure in Hindustan Times, New Delhi (side quests) <i class="fas fa-certificate"></i>
 
-- #### Tool Implementations <i class="fas fa-tools"></i>
+- ### Tool Implementations 
      Implemented and optimized workflows for JIRA ManageEngine, Freshservice, and Zendesk over a course of three years.
 
-- #### User Acceptance Testing Projects <i class="fas fa-vials"></i>
+- ### User Acceptance Testing Projects 
     - EidosMedia Methode Prime CMS upgrade.
     - HT ePaper, and LiveMint iOS app (Text-to-speech feature).
