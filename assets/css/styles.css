@@ -2,12 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000; /* Black background */
+    background-image: url('/assets/images/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
     color: #f4f4f4;
 }
 
 header, footer {
-    background-color: #111; /* Slightly lighter black for header and footer */
+    background-color: #111;
     color: #fff;
     padding: 1em 0;
     text-align: center;
@@ -28,7 +30,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-section {
+main {
     padding: 2em;
     margin: 2em 0;
 }
@@ -39,7 +41,7 @@ ul {
 }
 
 li {
-    background-color: #333; /* Dark grey for list items */
+    background-color: #333;
     margin: 1em 0;
     padding: 1em;
     border-radius: 5px;

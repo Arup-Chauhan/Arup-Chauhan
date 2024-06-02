@@ -1,22 +1,23 @@
 title: Arup Chauhan's Digital Domain
 description: Bridging Passions With Technology
-baseurl: "/"
+baseurl: ""
 url: "https://arup-chauhan.github.io"
-
-author:
-  name: Arup Chauhan
-  email: achauhan4@hawk.iit.edu
-  social:
-    github: https://github.com/Arup-Chauhan
-    linkedin: https://linkedin.com/in/arupchauhan
+remote_theme: vszhub/not-pure-poole
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-seo-tag
-
-remote_theme: vszhub/not-pure-poole
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
 
 paginate: 5
 paginate_path: "/page:num/"
+
+author:
+  name: "Arup Chauhan"
+  email: "achauhan4@hawk.iit.edu"
+  social:
+    github: "https://github.com/Arup-Chauhan"
+    linkedin: "https://linkedin.com/in/arupchauhan"
+    avatar: "assets/images/avatar.jpg"
