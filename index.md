@@ -8,10 +8,12 @@ cover_image: assets/images/background.jpg
 
 # Welcome, dive in!
 
-Currently pursuing my Master of Science in Computer Science at **Illinois Institute of Technology, Chicago**.
+Master of Science in Computer Science student at **Illinois Institute of Technology, Chicago**.
 
 
-When I'm not coding, I'm diving into sneaker culture or whipping up culinary masterpieces while I play great music. My passion for tech is only rivaled by my love for great food and rich sneaker culture.
+When I am not coding, I am diving into sneaker culture or whipping up culinary masterpieces while I play great music. 
+
+My passion for tech is only rivaled by my love for great food and rich sneaker culture.
 
 ## Quick Navigation <i class="fas fa-link"></i>
 - [About Me](/about/) <i class="fas fa-user"></i>
