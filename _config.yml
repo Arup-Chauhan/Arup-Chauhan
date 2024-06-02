@@ -1,5 +1,22 @@
 title: Arup Chauhan's Digital Domain
-description: Bridging passions with technology
-theme: jekyll-theme-cayman
+description: Impossible is nothing
 baseurl: "/"
 url: "https://arup-chauhan.github.io"
+
+author:
+  name: Arup Chauhan
+  email: achauhan4@hawk.iit.edu
+  social:
+    github: https://github.com/Arup-Chauhan
+    linkedin: https://linkedin.com/in/arupchauhan
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+remote_theme: vszhub/not-pure-poole
+
+paginate: 5
+paginate_path: "/page:num/"
