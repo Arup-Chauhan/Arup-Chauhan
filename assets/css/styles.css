@@ -27,7 +27,7 @@ nav ul li {
 
 nav ul li a {
     color: #fff;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 main {
@@ -54,5 +54,9 @@ a {
 }
 
 a:hover {
-    text-decoration: none;
+    text-decoration: none !important;
+}
+
+a:focus, a:active {
+    text-decoration: none !important;
 }
