@@ -27,11 +27,11 @@ A focussed search engine for sneaker enthusiasts built with React and MongoDB.
 Finding optimal routes with Python and PostgreSQL.
 
 
-### My tenure in Hindustan Times (side quests)
+### My tenure in Hindustan Times, New Delhi (side quests)
 
-#### Tool Implementations <i class="fas fa-tools"></i>
-Implemented and optimized workflows for JIRA ManageEngine, Freshservice, and Zendesk.
+- #### Tool Implementations <i class="fas fa-tools"></i>
+     Implemented and optimized workflows for JIRA ManageEngine, Freshservice, and Zendesk over a course of three years.
 
-#### User Acceptance Testing Projects <i class="fas fa-vials"></i>
-- EidosMedia Methode Prime CMS upgrade.
-- HT ePaper, and LiveMint iOS app (Text-to-speech feature).
+- #### User Acceptance Testing Projects <i class="fas fa-vials"></i>
+    - EidosMedia Methode Prime CMS upgrade.
+    - HT ePaper, and LiveMint iOS app (Text-to-speech feature).
