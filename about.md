@@ -13,7 +13,7 @@ permalink: /about/
 - **Practices**: RESTful APIs, Microservices, Agile, SDLC, Test-Driven Development, CI/CD, Containerization
 
 ## Experience <i class="fas fa-briefcase"></i>
-- **Software Engineer** <i class="fas fa-laptop-code"></i>  
+- **Software Engineer**
   IIT-Database Group Research Lab, Illinois Institute of Technology - Chicago, USA
 
   May 2024 - Present  
