@@ -17,12 +17,12 @@ Developed a content moderation system with Next.js and Firebase, achieving a 95%
 ## Projects <i class="fas fa-cogs"></i>
 
 ### Sneaker Space 
-[GitHub Repository](https://github.com/Arup-Chauhan/Sneaker-Space)
+[GitHub Repository](https://github.com/Arup-Chauhan/Sneaker-Space--Web-based-Information-Retrieval-System)
 
 A focussed search engine for sneaker enthusiasts built with React and MongoDB.
 
 ### Algorithmic Route Finder 
-[GitHub Repository](https://github.com/Arup-Chauhan/Algorithmic-Route-Finder)
+[GitHub Repository](https://github.com/Arup-Chauhan/The-Algorithmic-Route-Finder--Interactive-Pathfinding-Algorithm-Visualization-Tool.git)
 
 Finding optimal routes with Python and PostgreSQL.
 
